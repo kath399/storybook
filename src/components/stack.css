@@ -1,0 +1,10 @@
+.stack-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
+  
+  .stack-item {
+    margin-bottom: 10px; /* Adjust the spacing between items */
+  }
+  
