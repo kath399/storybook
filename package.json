@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -61,5 +61,9 @@
     "semantic-release": "^21.0.7",
     "storybook": "^7.2.2",
     "webpack": "^5.88.2"
-  }
+  },
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index.js"
 }
