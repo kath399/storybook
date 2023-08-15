@@ -3,7 +3,7 @@ import './stack.css';
 import PropTypes from "prop-types"
 
 interface StackProps {
-  children: React.ReactNode;
+  children: ReactNode;
   spacing?: number;
   wrap?: boolean;
   direction: "row" | "column";

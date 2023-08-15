@@ -65,7 +65,7 @@ export const Page: React.FC = () => {
               />
             </g>
           </svg>
-          Viewports addon in the toolbar
+          Viewports addon in the toolbar  
         </div>
       </section>
     </article>
